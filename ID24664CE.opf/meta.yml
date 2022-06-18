@@ -1,0 +1,36 @@
+id: ID24664CE
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:03:23.977985'
+last_modified: '2022-06-19T01:03:23.977998'
+parser: null
+source_metadata:
+  title: Hagiography of Don yod grub pa
+  author: rje btsun kun dga grol mchog
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2014-06-24); no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Samdrub
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/754
+  bases:
+    cf27:
+      title: Hagiography of Don yod grub pa
+      order: 1
+      base_file: cf27.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
